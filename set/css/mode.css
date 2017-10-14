@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+i, em {
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: 'iconfont';
+  src: url("../font/iconfont.eot");
+  src: url("../font/iconfont.eot?#iefix") format("embedded-opentype"), url("../font/iconfont.woff") format("woff"), url("../font/iconfont.ttf") format("truetype"), url("../font/iconfont.svg#iconfont") format("svg"); }
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale; }
+
+html, html body, html body main, html body main ul {
+  width: 100%;
+  height: 100%; }
+  html body, html body main body {
+    display: flex;
+    flex-direction: column;
+    background: #f5f5f5; }
+    html body header, html body main ul body header, html body header .header {
+      width: 100%;
+      height: 1.8rem;
+      background: #148ad2; }
+      html body header .header {
+        display: flex;
+        position: relative;
+        color: #fff; }
+        html body header .header i {
+          position: absolute;
+          top: 25%;
+          left: 0;
+          font-size: 22px !important; }
+        html body header .header em {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-weight: normal;
+          font-style: normal;
+          font-size: 0.8rem; }
+    html body .switch02 {
+      position: relative;
+      margin-bottom: 0.5rem;
+      width: 7rem;
+      height: 6px;
+      background: #cdcdcd;
+      border-radius: 0.13rem;
+      margin-right: 0.5rem;
+      color: #148ad2;
+      font-size: 14px; }
+      html body .switch02 .new-color {
+        position: absolute;
+        height: 6px;
+        background: #148ab2;
+        border-radius: 0.13rem 0 0 0.13rem; }
+      html body .switch02 .no1 {
+        position: absolute;
+        top: 8px;
+        left: 0; }
+      html body .switch02 .no2 {
+        position: absolute;
+        top: 8px;
+        right: 0; }
+      html body .switch02 .on-off02 {
+        position: absolute;
+        top: -3px;
+        left: 0;
+        z-index: 10;
+        width: 12px;
+        height: 12px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        background: #148ad2; }
+    html body .switch03 {
+      position: relative;
+      width: 5rem;
+      height: 6px;
+      background: #cdcdcd;
+      border-radius: 0.13rem;
+      margin-right: 2.5rem; }
+      html body .switch03 .light {
+        position: absolute;
+        right: -50px;
+        top: -6px;
+        background: #148ab2;
+        color: #fff;
+        font-size: 12px;
+        padding: 0.1rem 0.3rem;
+        -webkit-border-radius: 20%/50%;
+        -moz-border-radius: 20%/50%;
+        border-radius: 20%/50%; }
+      html body .switch03 .new-color03 {
+        position: absolute;
+        height: 6px;
+        background: #148ab2;
+        border-radius: 0.13rem; }
+      html body .switch03 .on-off03 {
+        position: absolute;
+        top: -3px;
+        left: 0;
+        width: 12px;
+        height: 12px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        background: #148ad2; }
+    html body main, html body main ul body main, html body main ul {
+      overflow-y: auto; }
+      html body main ul {
+        margin-top: 0.3rem; }
+        html body main ul li {
+          width: 100%;
+          height: 2.08rem;
+          background: #fff;
+          font-size: 14px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          border-bottom: 1px solid #eee; }
+          html body main ul li .mar-r {
+            margin-right: 0.5rem;
+            color: #787878; }
+          html body main ul li em {
+            margin-left: 1rem;
+            color: #787878; }
+          html body main ul li .switch {
+            width: 2rem;
+            height: 1rem;
+            margin-right: 0.5rem;
+            border: 2px solid #eee;
+            background: #999;
+            border-radius: 1rem;
+            position: relative; }
+            html body main ul li .switch .on-off {
+              position: absolute;
+              width: 1rem;
+              height: 1rem;
+              background: #fff;
+              border-radius: 1rem; }
+          html body main ul li:nth-child(2) {
+            border: none; }
+          html body main ul li:nth-child(5) {
+            border: none;
+            margin-bottom: 0.3rem; }
+          html body main ul li:nth-child(3) {
+            margin-top: 0.3rem; }
+          html body main ul li:last-child {
+            margin-top: 2.8rem;
+            background: #f5f5f5;
+            border: none;
+            display: flex;
+            justify-content: center;
+            align-items: center; }
+            html body main ul li:last-child button {
+              width: 10.04rem;
+              height: 1.64rem;
+              background: #148ad2;
+              color: #fff;
+              outline: none;
+              border: none; }
+
+/*# sourceMappingURL=mode.css.map */
