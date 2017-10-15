@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a64edd1d-7284-41b7-a04a-a1dd946603b4" name="默认的" comment="" />
+    <list default="true" id="a64edd1d-7284-41b7-a04a-a1dd946603b4" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/set/css/mode.css" afterPath="$PROJECT_DIR$/set/css/mode.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/set/css/mode.css.map" afterPath="$PROJECT_DIR$/set/css/mode.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/set/css/mode.scss" afterPath="$PROJECT_DIR$/set/css/mode.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/set/js/style.js" afterPath="$PROJECT_DIR$/set/js/style.js" />
+    </list>
     <ignored path="10-13--porject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +31,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/set/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.25">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            <state vertical-scroll-proportion="-16.722221">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
               <folding>
                 <element signature="n#li#0;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#1;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#4;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#5;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#6;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#7;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -38,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mode.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mode.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/set/css/mode.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.972222">
-              <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.4437421">
+              <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
               <folding>
                 <element signature="e#743#1290#0" expanded="false" />
               </folding>
@@ -50,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/set/js/style.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49031478">
-              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -70,6 +76,9 @@
         <option value="SCSS Files" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,8 +97,9 @@
         <option value="$PROJECT_DIR$/my-favorite/css/mode.scss" />
         <option value="$PROJECT_DIR$/personal-data/css/mode.scss" />
         <option value="$PROJECT_DIR$/set/index.html" />
-        <option value="$PROJECT_DIR$/set/css/mode.scss" />
+        <option value="D:/前端/css3.0/shi/c3-2/homework/send-msg2.html" />
         <option value="$PROJECT_DIR$/set/js/style.js" />
+        <option value="$PROJECT_DIR$/set/css/mode.scss" />
       </list>
     </option>
   </component>
@@ -99,8 +109,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="110" />
+    <option name="x" value="278" />
+    <option name="y" value="42" />
     <option name="width" value="1182" />
     <option name="height" value="987" />
   </component>
@@ -300,7 +310,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="110" width="1182" height="987" extended-state="1" />
+    <frame x="278" y="42" width="1182" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15559441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -340,6 +350,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/set/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set/css/mode.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#743#1290#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set/css/mode.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#743#1290#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-favorite/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -389,9 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#636#730#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,9 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65865993">
           <caret line="117" column="33" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
-          <folding>
-            <element signature="e#636#730#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -431,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.863464">
           <caret line="106" column="37" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5006321">
           <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,18 +558,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1352718">
           <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/前端/css3.0/02/zy/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.91150445">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/set/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.25">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state vertical-scroll-proportion="-16.722221">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#5;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#6;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#7;n#ul#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -519,21 +582,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/set/css/mode.scss">
+    <entry file="file://D:/前端/css3.0/shi/c3-2/homework/send-msg2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.972222">
-          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
-          <folding>
-            <element signature="e#743#1290#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.4652339">
+          <caret line="167" column="22" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/set/js/style.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49031478">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set/css/mode.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4437421">
+          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+          <folding>
+            <element signature="e#743#1290#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
